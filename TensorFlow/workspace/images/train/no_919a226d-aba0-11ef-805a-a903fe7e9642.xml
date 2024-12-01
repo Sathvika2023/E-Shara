@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no_919a226d-aba0-11ef-805a-a903fe7e9642.jpg</filename>
+	<path>C:\Users\Sathvika\Desktop\E-Shara\E-Shara\TensorFlow\workspace\images\collectedimages\no_919a226d-aba0-11ef-805a-a903fe7e9642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>56</ymin>
+			<xmax>542</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

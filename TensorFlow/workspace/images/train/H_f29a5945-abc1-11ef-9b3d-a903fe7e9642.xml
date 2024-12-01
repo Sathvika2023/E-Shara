@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>H_f29a5945-abc1-11ef-9b3d-a903fe7e9642.jpg</filename>
+	<path>C:\Users\Sathvika\Desktop\E-Shara\E-Shara\TensorFlow\workspace\images\collectedimages\H_f29a5945-abc1-11ef-9b3d-a903fe7e9642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>204</ymin>
+			<xmax>544</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

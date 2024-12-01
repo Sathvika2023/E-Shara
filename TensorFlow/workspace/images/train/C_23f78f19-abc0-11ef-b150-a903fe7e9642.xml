@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>C_23f78f19-abc0-11ef-b150-a903fe7e9642.jpg</filename>
+	<path>C:\Users\Sathvika\Desktop\E-Shara\E-Shara\TensorFlow\workspace\images\collectedimages\C_23f78f19-abc0-11ef-b150-a903fe7e9642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>260</ymin>
+			<xmax>443</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

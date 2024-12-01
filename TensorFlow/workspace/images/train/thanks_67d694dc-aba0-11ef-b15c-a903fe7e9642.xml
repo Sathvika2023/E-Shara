@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks_67d694dc-aba0-11ef-b15c-a903fe7e9642.jpg</filename>
+	<path>C:\Users\Sathvika\Desktop\E-Shara\E-Shara\TensorFlow\workspace\images\collectedimages\thanks_67d694dc-aba0-11ef-b15c-a903fe7e9642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>THANK YOU</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>234</ymin>
+			<xmax>582</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

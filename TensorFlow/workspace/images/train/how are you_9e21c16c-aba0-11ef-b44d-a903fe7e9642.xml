@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>how are you_9e21c16c-aba0-11ef-b44d-a903fe7e9642.jpg</filename>
+	<path>C:\Users\Sathvika\Desktop\E-Shara\E-Shara\TensorFlow\workspace\images\collectedimages\how are you_9e21c16c-aba0-11ef-b44d-a903fe7e9642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HOW ARE YOU</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>234</ymin>
+			<xmax>640</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
